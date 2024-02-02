@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 core one and two
-=======
-inner one and two
->>>>>>> 3051640 (base to inner)
+
