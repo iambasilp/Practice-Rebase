@@ -1,1 +1,1 @@
-resource 1 and 2
+Resource 1 and 2
