@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-base one and two
-=======
-foundaton and statistics one and two
->>>>>>> a1f3d97511e8d8e9a77f99573b3c2fa15e8d2fca
+core one and two
